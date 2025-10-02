@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Qalam Code 👋
 
-<!--
-**mr-qalam-code/mr-qalam-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=mr-qalam-code&color=blue)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning: **Python and C++**
+- 🤔 I’m looking for help with: **Advanced C++**
+- 📫 How to reach me: **qalam.codes@gmail.com**
+- 😄 Pronouns: **He/Him**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+![Languages](https://skillicons.dev/icons?i=py,html,css,github,cpp)  
+And yeah I' still a beginner
+
+## 📈 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=mr-qalam-code&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-qalam-code&layout=compact&theme=github_dark)
+
