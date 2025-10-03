@@ -9,7 +9,7 @@
 - 😄 Pronouns: **He/Him**
 
 ## 🛠️ Languages and Tools
-![Languages](https://skillicons.dev/icons?i=py,html,css,github,cpp)  
+![Languages](https://skillicons.dev/icons?i=py,github,cpp)  
 And yeah I' still a beginner
 
 ## 📈 GitHub Stats
